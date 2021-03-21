@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working my projects for education.
+- 🔭 I’m currently working on my projects for education.
 - 🌱 I’m currently learning Python Development.
 - 💬 Ask me about Python.
 - 📫 How to reach me: basakulker2@gmail.com
