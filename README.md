@@ -1,1 +1,1 @@
-- 📫 connect me: basakulker2@gmail.com
+- 📫 contact me: basakulker2@gmail.com
